@@ -98,9 +98,3 @@ npm run dev
 
 This will start the application in development mode and you can access the application in the browser at `http://localhost:3000`
 
-## Author
-
-- [@lakshmanshankarc](https://www.github.com/lakshmanshankarc)
-
-
-🙂 Happy Coding 
